@@ -42,4 +42,3 @@ export function employeeReducer (state = initialState, action) {
   }
 }
 
-// 

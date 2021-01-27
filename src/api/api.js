@@ -49,7 +49,6 @@ export function deleteEmployee (employee) {
   }
 }
 
-// to update a note
 
 export function editEmployee (employee) {
   return function (dispatch) {

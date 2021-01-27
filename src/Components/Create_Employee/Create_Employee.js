@@ -70,7 +70,7 @@ export default class Create_Employee extends Component {
 
         
 
-        // console.log(user_name,password);
+        
         if(this.validate()){
             this.setState({valid:true})
 
