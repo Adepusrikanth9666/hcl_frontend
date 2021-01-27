@@ -22,4 +22,3 @@ const EmployeeContainer = connect(
 )(Create_Employee)
 
 export default EmployeeContainer
-// 

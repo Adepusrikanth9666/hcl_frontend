@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
-import Create_Employee from './Components/Create_Employee/Create_Employee'
+// import Create_Employee from './Components/Create_Employee/Create_Employee'
 // import SignIn from './components/SignIn/SingIn'
 // import SignUp from './components/SignUp/SignUp'
 // import News from './components/Dashboard/App1'
@@ -24,4 +24,3 @@ function App () {
 }
 
 export default App
-// 
