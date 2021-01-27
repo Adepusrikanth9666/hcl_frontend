@@ -26,7 +26,7 @@ export default class View_Employee extends Component {
     componentDidMount () {
         setTimeout(() => this.props.getEmployee(), 1000)
       }
-      
+      // 
 
     render() {
         return(
